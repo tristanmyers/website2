@@ -105,8 +105,8 @@ footer {
 	width: 85vw;
 }
 
-.sections h3{
-	margin-bottom: 1rem;
+.sections h3, .sections p{
+	margin-bottom: 0.5rem;
 }
 
 
