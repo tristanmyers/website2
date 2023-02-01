@@ -112,11 +112,11 @@ footer {
   margin-bottom: 0.5rem;
 }
 
-.role {
+.role, .project {
   margin-bottom: 1.5rem;
 }
 
-#role-title {
+#role-title, #project-title {
   font-weight: 700;
 }
 
